@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="new_users_hw" max_length="40" name="x_58872_needit_new_users_hw" sizeclass="3" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=city" label="city" max_length="40" name="u_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=email" label="email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=first name" label="first name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=last name" label="last name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=user id" label="user id" max_length="40" name="u_user_id" type="string"/>
+    </element>
+</database>
